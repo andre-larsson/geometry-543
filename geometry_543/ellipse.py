@@ -1,3 +1,7 @@
+"""
+Ellipse module
+"""
+
 import numpy as np
 
 class Ellipse:
